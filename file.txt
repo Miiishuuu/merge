@@ -1,1 +1,1 @@
-This is the content from main.
+This is resolved content
